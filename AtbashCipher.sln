@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtbashCipher", "AtbashCipher\AtbashCipher.csproj", "{B082319C-9F6C-4251-90D4-0B988D636D4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B082319C-9F6C-4251-90D4-0B988D636D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B082319C-9F6C-4251-90D4-0B988D636D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B082319C-9F6C-4251-90D4-0B988D636D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B082319C-9F6C-4251-90D4-0B988D636D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87B4119D-ED12-4C23-B1E3-2C1EFE47EC16}
+	EndGlobalSection
+EndGlobal
